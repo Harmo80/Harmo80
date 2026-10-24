@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a web developer specialized in PHP (since v5 until v8) and moreover in the framework Symfony (since v4 until v6). 
+I am a web developer specialized in PHP (since PHP 5 until PHP 8) and moreover in the framework Symfony (since Symfony 4 until Symfony 7), also API Platform. 
 
 <!--
 **Harmo80/Harmo80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
